@@ -1,0 +1,70 @@
+Connecting to host 10.136.80.176, port 5201
+[  5] local 10.136.173.100 port 43056 connected to 10.136.80.176 port 5201
+[ ID] Interval           Transfer     Bitrate         Total Datagrams
+[  5]   0.00-1.00   sec  96.7 MBytes   811 Mbits/sec  72550  (omitted)
+[  5]   0.00-1.00   sec  93.5 MBytes   785 Mbits/sec  70160  
+[  5]   1.00-2.00   sec  93.7 MBytes   786 Mbits/sec  70290  
+[  5]   2.00-3.00   sec  94.0 MBytes   788 Mbits/sec  70470  
+[  5]   3.00-4.00   sec  92.6 MBytes   776 Mbits/sec  69420  
+[  5]   4.00-5.00   sec  93.6 MBytes   785 Mbits/sec  70200  
+[  5]   5.00-6.00   sec  94.0 MBytes   789 Mbits/sec  70530  
+[  5]   6.00-7.00   sec  93.9 MBytes   787 Mbits/sec  70410  
+[  5]   7.00-8.00   sec  94.1 MBytes   789 Mbits/sec  70550  
+[  5]   8.00-9.00   sec  93.8 MBytes   787 Mbits/sec  70390  
+[  5]   9.00-10.00  sec  94.1 MBytes   790 Mbits/sec  70610  
+[  5]  10.00-11.00  sec  93.8 MBytes   787 Mbits/sec  70370  
+[  5]  11.00-12.00  sec  93.8 MBytes   787 Mbits/sec  70380  
+[  5]  12.00-13.00  sec  93.4 MBytes   784 Mbits/sec  70060  
+[  5]  13.00-14.00  sec  96.1 MBytes   806 Mbits/sec  72060  
+[  5]  14.00-15.00  sec  95.1 MBytes   798 Mbits/sec  71320  
+[  5]  15.00-16.00  sec  93.4 MBytes   783 Mbits/sec  70050  
+[  5]  16.00-17.00  sec  95.0 MBytes   797 Mbits/sec  71290  
+[  5]  17.00-18.00  sec  93.3 MBytes   783 Mbits/sec  69980  
+[  5]  18.00-19.00  sec  93.4 MBytes   783 Mbits/sec  70020  
+[  5]  19.00-20.00  sec  93.8 MBytes   787 Mbits/sec  70370  
+[  5]  20.00-21.00  sec  93.0 MBytes   780 Mbits/sec  69730  
+[  5]  21.00-22.00  sec  93.3 MBytes   783 Mbits/sec  69990  
+[  5]  22.00-23.00  sec  94.1 MBytes   789 Mbits/sec  70550  
+[  5]  23.00-24.00  sec  93.6 MBytes   785 Mbits/sec  70230  
+[  5]  24.00-25.00  sec  93.2 MBytes   782 Mbits/sec  69920  
+[  5]  25.00-26.00  sec  95.3 MBytes   799 Mbits/sec  71450  
+[  5]  26.00-27.00  sec  93.2 MBytes   782 Mbits/sec  69920  
+[  5]  27.00-28.00  sec  93.5 MBytes   784 Mbits/sec  70130  
+[  5]  28.00-29.00  sec  98.1 MBytes   823 Mbits/sec  73610  
+[  5]  29.00-30.00  sec  87.2 MBytes   731 Mbits/sec  65390  
+[  5]  30.00-31.00  sec  93.3 MBytes   783 Mbits/sec  69990  
+[  5]  31.00-32.00  sec  88.0 MBytes   739 Mbits/sec  66040  
+[  5]  32.00-33.00  sec  94.0 MBytes   789 Mbits/sec  70510  
+[  5]  33.00-34.00  sec  94.0 MBytes   788 Mbits/sec  70500  
+[  5]  34.00-35.00  sec  94.0 MBytes   789 Mbits/sec  70500  
+[  5]  35.00-36.00  sec  93.9 MBytes   787 Mbits/sec  70410  
+[  5]  36.00-37.00  sec  93.8 MBytes   787 Mbits/sec  70320  
+[  5]  37.00-38.00  sec  93.9 MBytes   788 Mbits/sec  70460  
+[  5]  38.00-39.00  sec  92.8 MBytes   779 Mbits/sec  69620  
+[  5]  39.00-40.00  sec  94.9 MBytes   796 Mbits/sec  71170  
+[  5]  40.00-41.00  sec  93.9 MBytes   788 Mbits/sec  70450  
+[  5]  41.00-42.00  sec  93.4 MBytes   783 Mbits/sec  70040  
+[  5]  42.00-43.00  sec  94.0 MBytes   789 Mbits/sec  70540  
+[  5]  43.00-44.00  sec  93.9 MBytes   787 Mbits/sec  70400  
+[  5]  44.00-45.00  sec  93.2 MBytes   782 Mbits/sec  69940  
+[  5]  45.00-46.00  sec  93.9 MBytes   788 Mbits/sec  70430  
+[  5]  46.00-47.00  sec  94.0 MBytes   789 Mbits/sec  70540  
+[  5]  47.00-48.00  sec  93.6 MBytes   785 Mbits/sec  70180  
+[  5]  48.00-49.00  sec  92.8 MBytes   778 Mbits/sec  69570  
+[  5]  49.00-50.00  sec  94.2 MBytes   791 Mbits/sec  70690  
+[  5]  50.00-51.00  sec  94.0 MBytes   789 Mbits/sec  70520  
+[  5]  51.00-52.00  sec  93.5 MBytes   785 Mbits/sec  70150  
+[  5]  52.00-53.00  sec  93.6 MBytes   785 Mbits/sec  70190  
+[  5]  53.00-54.00  sec  93.7 MBytes   786 Mbits/sec  70250  
+[  5]  54.00-55.00  sec  94.0 MBytes   789 Mbits/sec  70510  
+[  5]  55.00-56.00  sec  93.7 MBytes   786 Mbits/sec  70260  
+[  5]  56.00-57.00  sec  93.3 MBytes   783 Mbits/sec  69960  
+[  5]  57.00-58.00  sec  94.0 MBytes   789 Mbits/sec  70530  
+[  5]  58.00-59.00  sec  93.1 MBytes   781 Mbits/sec  69850  
+[  5]  59.00-60.00  sec  94.1 MBytes   789 Mbits/sec  70570  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  5]   0.00-60.00  sec  5.49 GBytes   786 Mbits/sec  0.000 ms  0/4214940 (0%)  sender
+[  5]   0.00-60.05  sec  5.49 GBytes   785 Mbits/sec  0.009 ms  1153/4214940 (0.027%)  receiver
+
+iperf Done.

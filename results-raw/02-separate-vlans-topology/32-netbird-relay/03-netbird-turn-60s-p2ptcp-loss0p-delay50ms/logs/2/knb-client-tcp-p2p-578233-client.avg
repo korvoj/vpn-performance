@@ -1,0 +1,2 @@
+cpu-user cpu-nice cpu-system cpu-iowait cpu-steal memory-used records-number
+4.35 0.00 11.49 0.38 0.00 748 57
