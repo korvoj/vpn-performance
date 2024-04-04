@@ -1,5 +1,7 @@
 # Full-Mesh VPN Performance Evaluation for a Secure-Edge Cloud Continuum
 
+Cite as: *Kjorveziroski V, Bernad C, Gilly K, Filiposka S. Full-mesh VPN performance evaluation for a secure edge-cloud continuum. Softw: Pract Exper. 2024; 1-22. doi: 10.1002/spe.3329*
+
 # Deploying a Kubernetes Cluster
 
 ## Installing K3s
